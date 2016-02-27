@@ -1,0 +1,1 @@
+RealmJumper = new Mongo.Collection('rjdata');
